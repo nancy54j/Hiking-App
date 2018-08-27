@@ -1,0 +1,175 @@
+
+#hike-name{
+  text-align: center;
+}
+
+#network-box{
+  border-left: solid 5px #bac6d8;
+  height:630px;
+  margin: 30px;
+  overflow-y: scroll;
+}
+
+#map{
+  background-color: #a2c0ef;
+  height: 300px;
+  margin: 30px;
+  margin-left:0px;
+}
+
+.navbar-default{
+  background-color: #558de8;
+  color: white;
+  border-color: #bac6d8;
+  border-width: 1px; 
+  text-align: left;
+  
+}
+
+#new-post{
+  border-style: solid;
+  border-color: #bac6d8;
+  border-width: 1px;
+  background-color: white;
+  height: 300px;
+  margin: 30px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.img{
+  height: 200px;
+  background-color: black;
+  margin: 10px;
+}
+
+#left-img-scroll{
+  font-size: 60px;
+  float: right;
+  padding-top: 80px;
+}
+
+#right-img-scroll{
+  font-size: 60px;
+  float: left;
+  padding-top: 80px;
+}
+
+#post-input{
+  height: 100px;
+  width: 75%;
+  border: none;
+  margin: 20px;
+ 
+}
+
+#profile-pic{
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  background: url("https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg") no-repeat center / cover;
+}
+
+.text-box{
+  margin: 10px;
+}
+
+textarea{
+  overflow:hidden;
+  resize: none;
+  outline: none;
+}
+
+.middle-text-box{
+  padding: 10px;
+  padding-left: 20px;
+}
+
+
+#date-going{
+  border: solid 0.5px #558de8;
+}
+
+.icon-format{
+  font-size: 25px;
+  margin-left:20px;
+  margin-right: 5px;
+  margin-top:10px;
+  color: #558de8;
+}
+
+#submit-button{
+  right: 10%;
+  position: absolute;
+  width: 100px;
+}
+
+#submit-btn:hover{
+  background-color: #558de8;
+  color: white;
+}
+
+.hiking-post{
+  margin:3%;
+  margin-left:0px;
+  margin-top:0;
+  padding:0px;
+  width: 80%;
+}
+
+.hiking-post-top{
+  padding: 4%;
+  padding-bottom:10px;
+  background-color: #377def;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.hiking-post-bottom{
+  bottom-margin:0px;
+  padding: 10px;
+  background-color: #cdd1d8;
+  color:black;
+  height: auto;
+ width:70%;
+}
+
+#profile-pic-posted{
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  background: url("https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg") no-repeat center / cover;
+  border-radius: 50%;
+}
+
+.center{
+  text-align: center;
+}
+.connect-btn{
+  padding:2px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: whitesmoke;
+}
+.connect-btn:hover{
+  background-color: #558de8;
+  color: white;
+}
+
+.arrow-left {
+  width: 0; 
+  height: 0;
+  margin-top:4%;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; 
+  border-right:10px solid #377def; 
+}
+
+.arrow-left-grey {
+  width: 0; 
+  height: 0;
+  margin-top:3%;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; 
+  border-right:10px solid #cdd1d8; 
+}
